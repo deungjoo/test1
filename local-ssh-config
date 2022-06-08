@@ -1,0 +1,9 @@
+# Djkim github.
+Host github.com
+  HostName github.com
+  Port 22
+  User git
+  PreferredAuthentications publickey
+  IdentityFile ~/.ssh/kaon_djkim_ssh_id_rsa_priv
+
+
